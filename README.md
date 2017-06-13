@@ -66,8 +66,8 @@ you the input messages, but for the purposes of this exercise you are free to de
 
 ## How to use?
 
-You can use any IDE of your choice e.g, Intellij, Netbeans or Eclipse, the project contains direct inclusion of Eclipse and IntelliJ bundle.
-Additionally a zip folder containing entire repository.
+You can use any IDE of your choice e.g, Intellij, Netbeans or Eclipse.
+
 
 ## Requirements
 - Java 1.8
